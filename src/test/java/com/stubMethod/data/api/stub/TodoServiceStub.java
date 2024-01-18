@@ -12,4 +12,9 @@ public class TodoServiceStub implements TodoService {
 		return Arrays.asList("Spring MVC","Spring JDBC","Spring LDAP","Spring Mockito","EJB");
 	}
 
+	public void delete(String todoList) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
